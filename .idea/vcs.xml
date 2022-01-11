@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Affirmations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CupcakeOrderApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiceRollerApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InventoryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MarsPhotoGalleryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TipCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UnscrambleWordGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WordsApp" vcs="Git" />
+  </component>
+</project>
